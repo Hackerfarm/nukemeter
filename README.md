@@ -1,0 +1,3 @@
+# nukemeter
+NukeMeter is a project that's designed to work with the GUVA-S12SD ultraviolet photodiode. 
+Will add more info later...
